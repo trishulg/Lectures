@@ -1,0 +1,5 @@
+print("My name is 3shul")
+print(10)
+print(10/3)
+print(10//3)
+print(10%3)
